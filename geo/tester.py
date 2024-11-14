@@ -5,7 +5,7 @@ c = (a**2 + b**2)**0.5
 print('c =', c)
 
 r = 10
-area = r**2*3.14
+area = r**2*pi()
 print('area =', area)
 
 
